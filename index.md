@@ -6,7 +6,11 @@
 
 邮箱：lhy_CSU@csu.edu.cn&#09; &#09;电话：19896204300&emsp;&emsp;&emsp;&emsp;
 
-<small>https://github.com/ZoraNeverEatFish/ZoraNeverEatFish.github.io</small>
+<small>https:// Breadcrumbs
+
+[ZoraNeverEatFish.github.io](https://ZoraNeverEatFish.github.io/)
+
+</small>
 
 #### 🎓教育背景
 
